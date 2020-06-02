@@ -1,0 +1,14 @@
+<config>
+	<!--Chrome binary path-->
+	<chrome>
+		C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe
+	</chrome>
+	<!--Number of search pages that will be checked-->
+	<depth>
+		20
+	</depth>
+	<!--Export threshold: number of lines of results at which the export will be triggered (cumulative)-->
+	<export_threshold>
+		10
+	</export_threshold>
+</config>

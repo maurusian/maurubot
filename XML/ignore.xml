@@ -1,0 +1,13 @@
+<ignore>
+	<!--options for ignoring links: 0 = starts with, 1 = in the middle, 2 = ends with-->
+	<item option="1">quora.</item>
+	<item option="1">.google.</item>
+	<item option="1">/google.</item>
+	<item option="0">#</item>
+	<item option="1">webcache.googleusercontent</item>
+	<item option="1">facebook.</item>
+	<item option="1">youtube.</item>
+	<item option="1">tumblr.</item>
+	<item option="1">wikipedia.</item>
+	<item option="0">/search</item>
+</ignore>
